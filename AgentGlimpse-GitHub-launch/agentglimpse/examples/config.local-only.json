@@ -1,0 +1,10 @@
+{
+  "doneTTL": 600,
+  "staleTTL": 14400,
+  "showIdleDot": true,
+  "animate": true,
+  "extraStateDirs": [],
+  "watchNotifications": false,
+  "watchWindows": false,
+  "watchCodexSessions": true
+}

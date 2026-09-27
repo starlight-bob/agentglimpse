@@ -1,0 +1,124 @@
+{
+  "inspected_on": "2026-09-25",
+  "source_label": "Local AgentBeacon source; Info.plist version 1.4.9, build 19",
+  "scope": "Source/documentation fingerprints, not a binary or complete resource manifest",
+  "release_commit": "TODO[SOURCE_BASELINE]",
+  "files": [
+    {
+      "path": "Package.swift",
+      "sha256": "cd703c8932a9d2f7d7ddfc79fb3ff4b48f76cca4e37c0bacdf2ab117e50bf450"
+    },
+    {
+      "path": "README.md",
+      "sha256": "5536626c6cf05ff80b13c583f4fc14c69fd80415553232607c7d637a46724d7c"
+    },
+    {
+      "path": "Resources/Info.plist",
+      "sha256": "403a7d08b3c6910e1731fe17119404868ed09fc3b9f7069fc757d3661e434b29"
+    },
+    {
+      "path": "Sources/AgentBeacon/AXWatcher.swift",
+      "sha256": "b51fe6163393904a99253f500c44de5f1544e5294b1721742afc54d9299f3aa6"
+    },
+    {
+      "path": "Sources/AgentBeacon/AppDelegate.swift",
+      "sha256": "f94771293a6e1639d91a797f76c9218db79d1013be765fb1686d95d1191e0cb1"
+    },
+    {
+      "path": "Sources/AgentBeacon/CodexSessionWatcher.swift",
+      "sha256": "8f6ab30062524333894f0af0e3586ee162d763c747f223b6cd9d829eda3d25d5"
+    },
+    {
+      "path": "Sources/AgentBeacon/Log.swift",
+      "sha256": "8c88e7a2682f519df0999411677644372d6cbeb22d8d288f8960676e4e060f97"
+    },
+    {
+      "path": "Sources/AgentBeacon/Model.swift",
+      "sha256": "855feaf2da6764522c62f2eae54a951202571d5cda45c0283ceade4403cd0041"
+    },
+    {
+      "path": "Sources/AgentBeacon/NotificationWatcher.swift",
+      "sha256": "91b50a039017948c2e90e5ecab5e8064f2935bc4ad1313455162f833d3fdb93d"
+    },
+    {
+      "path": "Sources/AgentBeacon/PillRenderer.swift",
+      "sha256": "203611d39973fa443b22c042f9829152ac3087d358e939291ce3319d6453d9c9"
+    },
+    {
+      "path": "Sources/AgentBeacon/Preview.swift",
+      "sha256": "f4d9bcdb849253a305ec9aae78f9c20df9aaef0bf2cb346e908045695076190b"
+    },
+    {
+      "path": "Sources/AgentBeacon/SignInGate.swift",
+      "sha256": "10c005a7bd2a5c33a72d87246955996d33cde1a384e9958888fe785501a492b9"
+    },
+    {
+      "path": "Sources/AgentBeacon/SignInWindow.swift",
+      "sha256": "eaa659e70533fcdfb550d1066856b5a83d4e787e63617b2624192d6843ae6414"
+    },
+    {
+      "path": "Sources/AgentBeacon/UsageMonitor.swift",
+      "sha256": "0d5da7903bb15aacf676a2976e885eba455e55a6c6bf612bf5e076b560a4fb9d"
+    },
+    {
+      "path": "Sources/AgentBeacon/UsagePanel.swift",
+      "sha256": "26c7c51cedf01fad3ba36f185cdb37c1c967afcc4d5d81f6221eaeb2468fc80b"
+    },
+    {
+      "path": "Sources/AgentBeacon/UsagePanelLayout.swift",
+      "sha256": "7a92c7e70b5034d57fad1a32c71161cc4362d968ff37fafe25c4fb191ee26d57"
+    },
+    {
+      "path": "Sources/AgentBeacon/UsagePopover.swift",
+      "sha256": "18c39bdb60eee81314fd50fbd3ce9133b38e1d694caa56e1a7278568867d8290"
+    },
+    {
+      "path": "Sources/AgentBeacon/main.swift",
+      "sha256": "4c08276900036a265b70f5a611b53e4bbed48ed42f2c93b7b74ff99f59cc7386"
+    },
+    {
+      "path": "Tests/AgentBeaconTests/ActivityTests.swift",
+      "sha256": "e8b7d05f98dfe436d82ba4e77f0be21c3de8c0cd0471adc530659d64568e458b"
+    },
+    {
+      "path": "Tests/AgentBeaconTests/UsagePanelLayoutTests.swift",
+      "sha256": "5499b38ed87ec4400f7f0ffaa7d3fdf0095db6a0f855b1a1bb52033cf37dcaf7"
+    },
+    {
+      "path": "Tests/AgentBeaconTests/UsageTests.swift",
+      "sha256": "a35bcf44ab627f6dd349b52e6b46738802b1c068b2a943e5fe753f45053bf859"
+    },
+    {
+      "path": "USAGE-PANEL.md",
+      "sha256": "3f7dfeb5c12945e499e146d5d1328491f5700018cc29e47a1741c2223b93371e"
+    },
+    {
+      "path": "bin/agent-beacon",
+      "sha256": "bdfa899a97b78e14e61e2fe0bd0987b4bfaea6756600674ccf260ae67b4fc396"
+    },
+    {
+      "path": "hooks/install-hooks.py",
+      "sha256": "dfe34fa4a59bc90200c9d8c96f55c1bd8f0438a724e74172fb9c589a6acbcbf2"
+    },
+    {
+      "path": "install-prebuilt.sh",
+      "sha256": "c958fc44d00516c2374b3cb7900da9565cae2046dd9d14481bce327cab29bb8a"
+    },
+    {
+      "path": "install.sh",
+      "sha256": "14cd3571203e9504766da03996e0c4b4178a119bbb5bfaeb62dbb34724eff8f5"
+    },
+    {
+      "path": "preview/make-app-icon.swift",
+      "sha256": "157e029fa934ca95af40c6b6cadc013a52f8fbd8ef068f3b49a22446738caee9"
+    },
+    {
+      "path": "preview/make_preview.py",
+      "sha256": "cbbeacf5108cd91f4c04f405955504ad71376f06088596a48144638a92b362c7"
+    },
+    {
+      "path": "run-tests.sh",
+      "sha256": "d058fae3fe126c85adad1ac2a0a07ec692e1eff81d26f84414855e512dab9796"
+    }
+  ]
+}
