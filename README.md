@@ -4,6 +4,10 @@
 
 AgentGlimpse is a native macOS companion that brings AI agent activity into a small menu bar pill. See when an agent is working, waiting for you, or finished. Click to check Codex usage limits and reset countdowns in a softly translucent panel. When things go quiet, a tiny animated ginger cat keeps you company.
 
+<img width="428" height="613" alt="Screenshot 2026-09-25 at 20 34 23" src="https://github.com/user-attachments/assets/dd5dc241-85cd-49be-870b-cee042f20c23" />
+
+<img width="396" height="63" alt="Screenshot 2026-09-25 at 20 34 09" src="https://github.com/user-attachments/assets/8b473af1-0e48-4df8-940f-2b342fe70c51" />
+
 Formerly **AgentBeacon**. AgentGlimpse is the selected public name.
 
 > **Launch draft:** These materials describe the inspected AgentBeacon 1.4.9 source. This text-only package must be merged with the app source before build commands will work. The public release, license, and first-launch access policy are pending; see the [launch checklist](launch/CHECKLIST.md). Existing executable names and data paths still use AgentBeacon.
