@@ -4,9 +4,9 @@
 
 AgentGlimpse is a native macOS companion that brings AI agent activity into a small menu bar pill. See when an agent is working, waiting for you, or finished. Click to check Codex usage limits and reset countdowns in a softly translucent panel. When things go quiet, a tiny animated ginger cat keeps you company.
 
-<img width="428" height="613" alt="Screenshot 2026-09-25 at 20 34 23" src="https://github.com/user-attachments/assets/dd5dc241-85cd-49be-870b-cee042f20c23" />
-
 <img width="396" height="63" alt="Screenshot 2026-09-25 at 20 34 09" src="https://github.com/user-attachments/assets/8b473af1-0e48-4df8-940f-2b342fe70c51" />
+
+<img width="428" height="613" alt="Screenshot 2026-09-25 at 20 34 23" src="https://github.com/user-attachments/assets/dd5dc241-85cd-49be-870b-cee042f20c23" />
 
 Formerly **AgentBeacon**. AgentGlimpse is the selected public name.
 
@@ -33,6 +33,8 @@ Formerly **AgentBeacon**. AgentGlimpse is the selected public name.
 | State files and legacy hooks | Local JSON status, including connected-folder workflows | File producers and hook compatibility must be configured separately |
 
 Read the [integration guide](docs/integrations.md) for coverage and setup. Usage reporting currently covers **Codex**, not Claude usage or every ChatGPT product limit. It displays **quota percentages**, not raw token totals, token costs, or per-task billing.
+
+<img width="449" height="540" alt="Screenshot 2026-09-27 at 12 30 57" src="https://github.com/user-attachments/assets/2f6e545b-9334-4892-a5c4-c1db0a554e85" />
 
 ## Get started
 
