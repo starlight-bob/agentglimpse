@@ -1,0 +1,12 @@
+{
+  "doneTTL": 600,
+  "staleTTL": 14400,
+  "showIdleDot": true,
+  "animate": true,
+  "extraStateDirs": [
+    "~/Documents/Claude Code/.agent-beacon"
+  ],
+  "watchNotifications": true,
+  "watchWindows": true,
+  "watchCodexSessions": true
+}
