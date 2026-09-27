@@ -67,3 +67,7 @@ Read [privacy and data handling](docs/privacy.md) before enabling optional reade
 TODO[LICENSE_CHOICE]: Select the repository license and confirm the copyright holder. [LICENSE](LICENSE) records the unresolved status; a proposed MIT text is supplied separately for adoption. Third-party artwork requires its own review in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 This is an independent companion project. Product names identify the apps it integrates with; no affiliation or endorsement is claimed.
+
+## Acknowledgments
+
+Built by starlight-bob with assistance from ChatGPT and Codex for development, debugging, design iteration, and documentation.
